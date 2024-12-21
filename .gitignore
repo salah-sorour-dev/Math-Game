@@ -1,0 +1,24 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# Ignore build artifacts
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore OS-specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.a
+*.pdb
